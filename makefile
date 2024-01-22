@@ -42,7 +42,7 @@ dev-down-local:
 	kind delete cluster --name $(KIND_CLUSTER)
 
 dev-down:
-	kind delete cluster --name $(KIND_CLUST
+	kind delete cluster --name $(KIND_CLUST)
 
 # ==============================================================================
 
